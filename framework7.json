@@ -1,0 +1,27 @@
+{
+  "cwd": "C:\\Users\\andre\\Documents\\GitHub\\Visioscientiae\\App-Raccolta-Latte",
+  "type": [
+    "web",
+    "pwa",
+    "capacitor"
+  ],
+  "name": "App Raccolta Latte",
+  "framework": "vue",
+  "template": "blank",
+  "bundler": "vite",
+  "cssPreProcessor": false,
+  "theming": {
+    "customColor": true,
+    "color": "#007aff",
+    "darkMode": false,
+    "iconFonts": true
+  },
+  "customBuild": false,
+  "pkg": "com.visioscientiae.milk",
+  "capacitor": {
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
+}

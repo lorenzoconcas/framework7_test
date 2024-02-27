@@ -1,0 +1,13 @@
+{
+  "appId": "com.visioscientiae.milk",
+  "appName": "App Raccolta Latte",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

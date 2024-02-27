@@ -1,0 +1,10 @@
+{
+  "name": "Framework7 Test",
+  "short_name": "Framework7 Test",
+  "description": "Framework7 Test",
+  "lang": "it-IT",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#EAEEFA"
+}
